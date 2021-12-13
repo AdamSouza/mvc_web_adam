@@ -17,9 +17,9 @@ namespace e_jogos.Controllers
             return View();
         }
 
-        public IActionResult Cadastrar(IFormCollection form)
-        {
-
-        }
+        //public IActionResult Cadastrar(IFormCollection form)
+        //{
+             
+        //}
     }
 }
